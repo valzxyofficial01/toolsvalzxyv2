@@ -143,7 +143,7 @@ class ValzxyFinder(
             return None
 
         filename = ROOT / (
-            fullname + ".py.aldz"
+            fullname + ".py.valzxy"
         )
 
         if not filename.is_file():
