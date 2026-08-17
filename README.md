@@ -1,4 +1,4 @@
-# Valzxy Tolkit
+# Valzxy Tolkit Version 2.0.0
 
 > Toolkit Python untuk Termux
 
@@ -18,7 +18,7 @@ kalo gak ada sdcard pake ini
 cd /storage/emulated/0
 
 git clone https://github.com/valzxyofficial01/toolsvalzxyv2
-cd toolsvalzxy
+cd toolsvalzxyv2
 pip install -r requirements.txt
 python run.py
 ```
